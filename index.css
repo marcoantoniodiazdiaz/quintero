@@ -1,0 +1,21 @@
+.col-md-4 {
+    margin-top: 30vh;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: ease-in-out 200ms;
+}
+
+img {
+    width: 20%;
+}
+
+.col-md-4:hover {
+    transition: ease-in-out 200ms;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.col-md-4:active {
+    transition: ease-in-out 200ms;
+    background-color: rgba(0, 0, 0, 0.2);
+}
